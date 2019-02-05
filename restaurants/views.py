@@ -20,7 +20,7 @@ def restaurant_detail(request):
     context = {
 
     "my_object": 
-    {"restaurant_name": "arabica", "food_type": "yummy stuff"}
+    {"restaurant_name": "JOA", "food_type": "sushi"}
 
 
 
